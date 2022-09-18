@@ -15,6 +15,7 @@ Projeto construído no evento Next Level Week da Rocketseat.
 - HTML
 - CSS
 - Git e Github
+- Photoshop CS6
 
 
 ## Contato 
